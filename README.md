@@ -1,2 +1,2 @@
-# Projeto-Interdisciplinar-
+# Projeto-Interdisciplinar-Sigmi
 Projeto Interdisciplinar 
