@@ -5,7 +5,7 @@ Projeto Interdisciplinar
 
 ## Identificação visual
 
-![Nossa logo](https://github.com/cadamowicz/Projeto-Interdisciplinar-/blob/main/SIGMI-LOGO.png)
+![Nossa logo](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/SIGMI-LOGO.png)
 
 ## Equipe  
 + Claudio Cesar Adamowicz  
@@ -13,7 +13,7 @@ Projeto Interdisciplinar
 
 ## Product Vision Board  
 
-![Visão do produto](https://github.com/cadamowicz/Projeto-Interdisciplinar-/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
+![Visão do produto](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
 
 ## MVP
 
@@ -39,11 +39,11 @@ O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibil
 
 ## Persona
 
-![persona](https://github.com/cadamowicz/Projeto-Interdisciplinar-/blob/main/persona-samuel-oliveira.png)
+![persona](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/persona-samuel-oliveira.png)
 
 ## Storyboard
 
-![storyboard](https://github.com/cadamowicz/Projeto-Interdisciplinar-/blob/main/storyboard-sigmi%20(1).png)
+![storyboard](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/storyboard-sigmi%20(1).png)
 
 ## Vantagens do nosso sistema
 
