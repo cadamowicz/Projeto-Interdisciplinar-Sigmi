@@ -9,7 +9,7 @@ Projeto Interdisciplinar
 
 ## Equipe  
 + Claudio Cesar Adamowicz  
-+ Joice Cristine Opolis
++ Evandro Jose da Silva
 
 ## Product Vision Board  
 
