@@ -157,6 +157,10 @@ SILVA, D. E. et al. **Desenvolvimento de um sistema de gerenciamento para lojas 
 
 https://trello.com/b/dGF4NK7Z/projeto-interdisciplinar
 
+## Relatório Técnico
+
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Relat%C3%B3rio%20projeto%20interdisciplinar.pdf
+
 ## Entrevista de Identificação e Conscientização do Problema 
 
 A pesquisa de identificação e conscientização do problema foi aplicada através de formulário eletrônico (https://forms.gle/hiTsxK4bcD3QN3pR9), distribuído através de grupos de contato no WhatsApp, no período entre 14 de novembro a 27 de novembro de 2023 e foram coletadas 20 respostas (https://docs.google.com/spreadsheets/d/1u9l1vuUS-vJ8-HK6LLANo-3ClIsBRoTG-y7cbZZdM4E/edit?usp=sharing). 
