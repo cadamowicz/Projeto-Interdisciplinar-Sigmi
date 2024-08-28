@@ -13,7 +13,7 @@ Projeto Interdisciplinar
 
 ## Product Vision Board  
 
-![Visão do produto](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Declara%C3%A7%C3%A3o_de_Vis%C3%A3o.jpg)
+![Visão do produto](https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Visao%20Evandro.png)
 
 ## MVP
 
