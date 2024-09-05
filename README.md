@@ -154,6 +154,8 @@ SILVA, D. E. et al. **Desenvolvimento de um sistema de gerenciamento para lojas 
 
 ## Atividades de Extensão
 
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Atividades%20de%20Extens%C3%A3o.zip
+
 ## Gestão do projeto
 
 https://trello.com/b/dGF4NK7Z/projeto-interdisciplinar
