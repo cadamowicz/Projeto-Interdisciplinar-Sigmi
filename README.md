@@ -152,6 +152,10 @@ SIGECLOUD. **Sistema de Gestão para Assistência Técnica e Loja de Informátic
 
 SILVA, D. E. et al. **Desenvolvimento de um sistema de gerenciamento para lojas de informática e periféricos.**  Monografia (Análise e Desenvolvimento de Sistemas) - Faculdade de Tecnologia de Americana “Ministro Ralph Biasi”.  Americana, 2022. 
 
+## Material Gestão da Tecnologia da Informação
+
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Gest%C3%A3o%20da%20Tecnologia%20da%20Informa%C3%A7%C3%A3o.zip
+
 ## Atividades de Extensão
 
 https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Atividades%20de%20Extens%C3%A3o.zip
