@@ -61,7 +61,7 @@ Nosso projeto visa promover o trabalho decente e o crescimento econômico em Cur
 
 Aplicação dos Conceitos de MVP, Ciclos Rápidos de Feedback e Aprendizado Validado.
 
-1. MVP (Produto Mínimo Viável): Focamos inicialmente nas funcionalidades essenciais, como o cadastro de clientes, técnicos e equipamentos, além do controle de ordens de serviço, para validar a ideia principal de gerenciamento de manutenção de equipamentos para MEIs. A ideia é lançar um MVP funcional, com o menor esforço, mas suficiente para atender às necessidades básicas dos usuários.
+1.   MVP (Produto Mínimo Viável): Focamos inicialmente nas funcionalidades essenciais, como o cadastro de clientes, técnicos e equipamentos, além do controle de ordens de serviço, para validar a ideia principal de gerenciamento de manutenção de equipamentos para MEIs. A ideia é lançar um MVP funcional, com o menor esforço, mas suficiente para atender às necessidades básicas dos usuários.
 
 Ciclos rápidos de feedback: A partir da liberação do MVP, estamos coletando feedbacks contínuos diretamente dos usuários (MEIs da região). Esses feedbacks ajudam a ajustar e evoluir o sistema conforme as demandas e expectativas reais da comunidade.
 
