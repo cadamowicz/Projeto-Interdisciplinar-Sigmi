@@ -56,7 +56,57 @@ O problema que o SIGMI pretende resolver é a falta de controle eficaz e visibil
 
 **Trabalho decente e crescimento econômico: Promover o crescimento econômico inclusivo e sustentável, o emprego pleno e produtivo e o trabalho digno para todos.**
 
-Nosso projeto visa promover o trabalho decente e o crescimento econômico em Curitiba e região metropolitana (RMC), pois a inovação tecnológica permite a geração de empregos, apoia o empreendedorismo e incentiva o crescimento de micro e pequenas empresas a partir do acesso a ferramentas e recursos que apoiam a estruturação e gestão do negócio, dão robustez ao serviço prestado, permite que os empreendedores aloquem de forma mais eficaz tempo e recursos nas demandas, e como consequência permitem a expansão no negócio, geração de empregos, possibilitam a fidelização de clientes através da transparência das informações e fomenta o crescimento econômico a região. 
+
+Nosso projeto visa promover o trabalho decente e o crescimento econômico em Curitiba e região metropolitana (RMC), alinhando-se ao ODS da ONU: Trabalho Decente e Crescimento Econômico. O projeto utiliza inovação tecnológica para apoiar o empreendedorismo e fomentar o crescimento de micro e pequenas empresas, especialmente através de ferramentas que permitem a melhor gestão de tempo e recursos, incentivando o desenvolvimento sustentável na região.
+
+Aplicação dos Conceitos de MVP, Ciclos Rápidos de Feedback e Aprendizado Validado.
+
+1. MVP (Produto Mínimo Viável): Focamos inicialmente nas funcionalidades essenciais, como o cadastro de clientes, técnicos e equipamentos, além do controle de ordens de serviço, para validar a ideia principal de gerenciamento de manutenção de equipamentos para MEIs. A ideia é lançar um MVP funcional, com o menor esforço, mas suficiente para atender às necessidades básicas dos usuários.
+
+Ciclos rápidos de feedback: A partir da liberação do MVP, estamos coletando feedbacks contínuos diretamente dos usuários (MEIs da região). Esses feedbacks ajudam a ajustar e evoluir o sistema conforme as demandas e expectativas reais da comunidade.
+
+Aprendizado Validado: Após cada iteração, fazemos testes com os usuários para garantir que as mudanças realmente agregam valor e ajudam no objetivo maior de crescimento econômico e trabalho digno. Isso evita o desperdício de recursos e garante o alinhamento do desenvolvimento com as necessidades do público.
+
+2. Otimização do Ciclo "Construir, Medir e Aprender".
+Para garantir a eficiência no ciclo construir, medir e aprender, aplicamos as seguintes estratégias:
+
+Construir: Desenvolvemos pequenas iterações focadas em funcionalidades específicas, mantendo o escopo enxuto e evitando complexidades desnecessárias no início.
+
+Medir: Definimos métricas claras de sucesso para cada iteração, como a quantidade de ordens de serviço criadas, tempo de resposta ao cliente, e taxa de satisfação dos usuários. Esses dados são monitorados e analisados constantemente.
+
+Aprender: Após medir os resultados, discutimos as lições aprendidas com a equipe, avaliamos o que precisa ser ajustado e planejamos a próxima iteração. Isso garante uma evolução constante e orientada por dados reais.
+
+3. Engajamento do Público Alvo.
+O engajamento dos MEIs da região é fundamental para o sucesso do projeto. Para isso:
+
+Comunicação direta: Temos uma comunicação aberta com os usuários através de grupos em redes sociais e WhatsApp, onde recebemos feedback constante e respondemos dúvidas.
+
+Testes com usuários: Envolvemos diretamente os MEIs em testes de usabilidade e iterações do sistema, o que ajuda a garantir que o produto atenda suas necessidades reais.
+
+Workshops e eventos: Organizamos encontros periódicos com os usuários para discutir melhorias e entender suas dificuldades operacionais no uso do sistema.
+
+4. Definição de Métricas no Projeto
+Definir métricas claras é essencial para medir o progresso e o sucesso do projeto. Algumas das métricas que monitoramos incluem:
+
+Taxa de adoção: Quantos MEIs estão utilizando o sistema ativamente.
+Número de ordens de serviço geradas: Indicando o volume de transações gerenciadas pela plataforma.
+Taxa de satisfação dos usuários: Através de pesquisas rápidas após cada iteração ou atendimento.
+Tempo de resposta: Quanto tempo o sistema leva para registrar e notificar sobre uma nova ordem de serviço.
+Retenção de usuários: Quantos usuários continuam utilizando a plataforma após um mês de uso.
+Essas métricas nos ajudam a ajustar o sistema e garantir que estamos agregando valor real para os usuários.
+
+5. Incentivando uma Cultura de Experimentação.
+Para criar e incentivar uma cultura de experimentação na equipe, adotamos as seguintes práticas:
+
+Experimentação contínua: Encorajamos a equipe a testar novas abordagens e funcionalidades em pequena escala antes de implementá-las de forma ampla.
+
+Falhar rápido e barato: Entendemos que falhas fazem parte do processo de inovação. Permitimos que a equipe aprenda com os erros rapidamente, corrigindo e iterando de forma ágil.
+
+Transparência e feedback: Mantemos uma comunicação aberta, onde os membros da equipe compartilham suas ideias e aprendizados, criando um ambiente colaborativo.
+
+Reconhecimento do aprendizado: Valorizamos não só o sucesso, mas também o aprendizado derivado dos experimentos, incentivando o time a continuar inovando.
+
+Este projeto é uma oportunidade de aplicar as melhores práticas de gestão ágil e inovação, alinhando-se aos Objetivos de Desenvolvimento Sustentável, enquanto promove o crescimento econômico inclusivo e sustentável para microempreendedores da região.
 
 ## Tecnologias utilizadas 
 
