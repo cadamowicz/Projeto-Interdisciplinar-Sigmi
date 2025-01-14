@@ -222,6 +222,10 @@ https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Relat%C3%
 
 https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Projeto%20Final%20de%20Curso.zip
 
+## Artigo
+
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/ARTIGO.pdf
+
 ## Apresentação Final
 
 https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Apresenta%C3%A7%C3%A3o%20final.zip
