@@ -226,6 +226,14 @@ https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Projeto%2
 
 https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/ARTIGO.pdf
 
+## Plano de negocio
+
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Modelo%20de%20Plano%20de%20Neg%C3%B3cio%20(2024)%20-%20Final.pdf
+
+## Planilha Financeira
+
+https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/financeiro-final.xlsx
+
 ## Apresentação Final
 
 https://github.com/cadamowicz/Projeto-Interdisciplinar-Sigmi/blob/main/Apresenta%C3%A7%C3%A3o%20final.zip
